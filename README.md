@@ -216,4 +216,4 @@ ZKanji is offered as a full free version, providing all features and updates wit
 Start your journey to mastering Japanese today by downloading ZKanji! Unlock all features and begin learning the fascinating language of Japan.
 
 ---
-**Last updated:** 2026-11-10 01:51:57 UTC
+**Last updated:** 2026-11-10 09:12:33 UTC
